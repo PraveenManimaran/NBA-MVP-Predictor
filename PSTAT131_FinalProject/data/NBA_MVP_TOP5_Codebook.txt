@@ -1,0 +1,21 @@
+Year: Year of NBA Season 
+Rank: Rank order of highest to lowest of player's ranks for total votes (points)
+Player: Player's name
+Age: Player's age
+Team: Player's team
+First: Number of First Place votes
+Pts_Won: Total Number of Points Won from votes
+Pts_Max: Total Possible Number of Points that can be won
+MVP_Share: Pts_Won/Pts_Max, player with highest wins MVP 
+Games: Games Played
+MP: Minutes Played Per Game
+PTS: Points Per Game
+TRB: Rebounds Per Game
+AST: Assists Per Game
+STL: Steals Per Game
+BLK: Blocks Per Game
+FG_Percentage: Field Goal Percentage
+Three_Pt_Percentage: Three Point Percentage
+FT_Percentage: Free Throw Perventage
+WS: Win Shares, an estimate of the number of wins contributed by that player for season
+WS_Per_48_Min: an estimate of the number of wins contributed by that player per 48 minutes(league average approximately 0.100)
